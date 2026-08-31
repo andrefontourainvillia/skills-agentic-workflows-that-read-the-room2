@@ -27,7 +27,17 @@ Mona's website focuses on practical GitHub guidance backed by official reference
   are available across their organizations. (GitHub Changelog)
 - **Copilot in Visual Studio — August update.** Rolling improvements to the Copilot experience
   in Visual Studio, plus the usual weekly Copilot release notes. (GitHub Changelog)
+- **Copilot billing and policy changes coming.** GitHub outlined upcoming changes to Copilot
+  policies and billing that admins should plan for ahead of time. (GitHub Changelog)
+- **Close all contributions from a blocked user.** A new option lets maintainers close every
+  open issue and pull request from a blocked user in one action. (GitHub Changelog)
+- **GitHub Classroom deprecated.** GitHub is sunsetting GitHub Classroom; educators should note
+  the timeline and plan a migration path. (GitHub Changelog)
 - **How canvases make agentic workflows visible and steerable.** A practical look at using
   canvases to track and control Copilot agent work in progress. (GitHub Blog)
 - **Evaluating LLMs before production.** Guidance on testing and benchmarking LLMs before
   relying on them in real workflows. (GitHub Blog)
+- **A look back at the August 17 outage.** GitHub shares what caused a recent outage and the
+  reliability work planned in response. (GitHub Blog)
+- **Bringing your software delivery workflow into GitHub with agent apps.** A practical look at
+  using agent apps to connect delivery workflows directly into GitHub. (GitHub Blog)
